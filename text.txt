@@ -1,0 +1,9 @@
+<Route path='/business' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/entertainment' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/general' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/health' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/science' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/sports' element={<News pagesize={3} country="in" category="general"/>} />
+<Route path='/technology' element={<News pagesize={3} country="in" category="general"/>} />
+
+<Route path='/' element={<News pagesize={3} country="in" category="general"/>} />
